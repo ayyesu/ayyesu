@@ -1,4 +1,4 @@
-[![MasterHead](https://monophy.com/media/H83F4AfL798AmtKXIL/monophy.gif)]()
+
 <h1 align="center">Hi 👋, I'm Daniel Kissiedu</h1>
 <h3 align="center">Software Engineering Student at ALX who loves to work with some tools in Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
