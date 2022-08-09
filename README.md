@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/danielayesukissiedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielayesukissiedu" height="30" width="40" /></a>
 <a href="https://kaggle.com/daniel kissiedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="daniel kissiedu" height="30" width="40" /></a>
 <a href="https://instagram.com/ayyesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayyesu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/daniel kissiedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="daniel kissiedu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Daniel Kissiedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Daniel Kissiedu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayyesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayyesu" height="30" width="40" /></a>
 </p>
 
