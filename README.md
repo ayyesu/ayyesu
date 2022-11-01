@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Software Engineering Student at ALX and a Machine Learning enthusiastic</h3>
+<h3 align="center">Software Engineering and a Machine Learning enthusiastic</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <a href="https://twitter.com/therealldaniiel" target="blank"><img src="https://img.shields.io/twitter/follow/therealldaniiel?logo=twitter&style=for-the-badge" alt="therealldaniiel" /></a> </p>
