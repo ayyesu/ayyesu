@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/therealldaniiel" target="blank"><img src="https://img.shields.io/twitter/follow/therealldaniiel?logo=twitter&style=for-the-badge" alt="therealldaniiel" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure & Algorithms with python, java and C**
+- 🌱 I’m currently learning **Data Structure & Algorithms with python, javascript and C**
 
 - 👯 I’m looking to collaborate with **learners of coding**
 
