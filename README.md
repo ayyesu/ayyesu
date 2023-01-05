@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/therealldaniiel" target="blank"><img src="https://img.shields.io/twitter/follow/therealldaniiel?logo=twitter&style=for-the-badge" alt="therealldaniiel" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure & Algorithms with python, javascript and C**
+- 🌱 I’m currently learning **backend system logic**
 
-- 👯 I’m looking to collaborate with **learners of coding**
+- 👯 I’m looking to collaborate with **other developers**
 
 - 📝 I regularly write articles on software engineering prerequisites
 
 - 💬 Ask me about **programming**
 
 - 📫 How to reach me **iamdanielkissiedu@gmail.com**
-
-- ⚡ Fun fact **There is BIG money in coding!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
