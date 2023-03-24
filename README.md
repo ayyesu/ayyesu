@@ -24,10 +24,8 @@
     >
 </p>
 
-<p>
-    - 💬 Ask me about **programming** - 📫 How to reach me
-    **iamdanielkissiedu@gmail.com**
-</p>
+<p>- 💬 Ask me about **programming**</p>
+<p>- 📫 How to reach me **iamdanielkissiedu@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
