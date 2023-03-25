@@ -14,8 +14,11 @@
             alt="therealldaniiel"
     /></a>
 </p>
-<p>- 🌱 I’m currently learning **backend system logic**</p>
-<p>- 👯 I’m looking to collaborate with **other developers**</p>
+<p>
+    - 🌱 I’m currently learning
+    <span style="color: slategrey">backend system logic</span>
+</p>
+<p>- 👯 I’m looking to collaborate with other developers</p>
 <p>
     - 📝 Current article -
     <a
@@ -24,8 +27,10 @@
     >
 </p>
 
-<p>- 💬 Ask me about **programming**</p>
-<p>- 📫 How to reach me **iamdanielkissiedu@gmail.com**</p>
+<p>- 💬 Ask me about <span style="color: slategrey">programming</span></p>
+<p>
+    - 📫 How to reach me <a href="mailto:iamdanielkissiedu@gmail.com">mail</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,7 +66,7 @@
             height="30"
             width="40"
     /></a>
-    <a href="https://www.youtube.com/c/Daniel Kissiedu" target="blank"
+    <a href="https://www.youtube.com/channel/UC4sbHulYMkHErT4jMucg2Gw" target="blank"
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
@@ -77,6 +82,15 @@
             width="40"
     /></a>
 </p>
+<div>
+    <h3 align="left">Visitor Count:</h3>
+    <p align="center">
+        <img
+            src="https://profile-counter.glitch.me/ayyesu/count.svg"
+            alt="Visitor Count"
+        />
+    </p>
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -143,22 +157,13 @@
             height="40"
         />
     </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
         <img
-            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-            alt="dart"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
+            alt="spring"
             width="40"
             height="40"
         />
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://cdn.worldvectorlogo.com/logos/django.svg"
-            alt="django"
-            width="40"
-            height="40"
-        />
-    </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -171,26 +176,6 @@
         <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
-        href="https://flask.palletsprojects.com/"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-            alt="flask"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-            alt="flutter"
             width="40"
             height="40"
         />
