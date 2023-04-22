@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer with an interest in Backend</h3>
 <img
     align="right"
     alt="Coding"
