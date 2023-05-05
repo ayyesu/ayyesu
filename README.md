@@ -152,6 +152,18 @@
             height="40"
         />
     </a>
+    <a
+    href="https://www.typescriptlang.org/"
+    target="_blank"
+    rel="noreferrer"
+    >
+    <img
+        src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
+        alt="TypeScript"
+        width="40"
+        height="40"
+    />
+    </a>
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
         <img
             src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
