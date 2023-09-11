@@ -16,9 +16,9 @@
 </p>
 <p>
     - 🌱 I’m currently learning
-    <span style="color: slategrey">backend system logic</span>
+    <span style="color: slategrey">Machine Learning</span>
 </p>
-<p>- 👯 I’m looking to collaborate with other developers</p>
+<p>- 👯 I’m looking to collaborate with other developers on Software Development & Machine Learning projects</p>
 <p>
     - 📝 Current article -
     <a
