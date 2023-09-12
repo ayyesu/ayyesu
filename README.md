@@ -22,8 +22,8 @@
 <p>
     - 📝 Current article -
     <a
-        href="https://medium.com/@iamdanielkissiedu/scaling-from-zero-to-millions-of-users-e737282247a9"
-        >Scaling from Zero to Millions of Users</a
+        href="https://medium.com/@iamdanielkissiedu/scaling-from-zero-to-millions-of-users-e737282247a9](https://medium.com/@iamdanielkissiedu/understanding-data-processing-in-machine-learning-a13aa93b613e"
+        >Understanding Data Processing in Machine Learning</a
     >
 </p>
 
