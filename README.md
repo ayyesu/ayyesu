@@ -63,3 +63,6 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayyesu" height="30" width="40">
     </a>
 </p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayyesu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayyesu&theme=github_dark)
