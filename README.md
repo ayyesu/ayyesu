@@ -20,7 +20,7 @@
 <ol>
     <li>
         <p>
-            <a href="https://medium.com/@iamdanielkissiedu/scaling-from-zero-to-millions-of-users-e737282247a9">
+            <a href="https://medium.com/@iamdanielkissiedu/understanding-data-processing-in-machine-learning-a13aa93b613e">
                 Understanding Data Processing in Machine Learning
             </a>
         </p>
