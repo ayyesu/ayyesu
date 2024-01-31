@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi 👋, I'm Daniel Kissiedu</h1>
 <h3 align="center">Software Engineer with an interest in Backend</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
@@ -10,7 +10,7 @@
 </p>
 
 <p>
-    - 🌱 I’m currently learning <span style="color: slategrey">Machine Learning</span>
+    - 🌱 I’m currently learning <span style="color: slategrey">ML & AI</span>
 </p>
 
 <p>- 👯 I’m looking to collaborate with other developers on Software Development & Machine Learning projects</p>
@@ -37,7 +37,7 @@
     </li>
 </ol>
 
-<p>- 💬 Ask me about <span style="color: slategrey">programming</span></p>
+<p>- 💬 Ask me about <span style="color: slategrey">anything programming</span></p>
 
 <p>- 📫 How to reach me <a href="mailto:iamdanielkissiedu@gmail.com">mail</a></p>
 
