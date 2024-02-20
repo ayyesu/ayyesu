@@ -10,7 +10,7 @@
 </p>
 
 <p>
-    - 🌱 I’m currently learning <span style="color: slategrey">ML & AI</span>
+    - 🌱 I’m currently learning <span style="color: slategrey">Data Science</span>
 </p>
 
 <p>- 👯 I’m looking to collaborate with other developers on Software Development & Machine Learning projects</p>
