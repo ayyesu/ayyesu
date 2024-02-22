@@ -13,9 +13,16 @@
     - 🌱 I’m currently learning <span style="color: slategrey">Data Science</span>
 </p>
 
+<p> - 💻 Working on: </p>
+<ol>
+    <li>
+        <a href="https://mindmap-di.netlify.app/">MindMap</a>
+    </li>
+</ol>
+
 <p>- 👯 I’m looking to collaborate with other developers on Software Development & Machine Learning projects</p>
 
-<p> - Recent Article:</p>
+<p> - ✍🏽 Recent Article:</p>
 
 <ol>
     <li>
