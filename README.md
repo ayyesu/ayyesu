@@ -16,7 +16,7 @@
 <p> - 💻 Working on: </p>
 <ol>
     <li>
-        <a href="https://mindmap-di.netlify.app/">MindMap</a>
+        <a href="https://mindmap-di.netlify.app/" target="_blank">MindMap</a>
     </li>
 </ol>
 
@@ -27,19 +27,19 @@
 <ol>
     <li>
         <p>
-            <a href="https://medium.com/@iamdanielkissiedu/understanding-data-processing-in-machine-learning-a13aa93b613e">
+            <a href="https://medium.com/@iamdanielkissiedu/understanding-data-processing-in-machine-learning-a13aa93b613e" target="_blank">
                 Understanding Data Processing in Machine Learning
             </a>
         </p>
     </li>
     <li>
         <p>
-            <a href="https://medium.com/@iamdanielkissiedu/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-dc3cefa3e76c">What happens when you type google.com in                 your browser and press Enter</a>
+            <a href="https://medium.com/@iamdanielkissiedu/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-dc3cefa3e76c" target="_blank">What happens when you type google.com in                 your browser and press Enter</a>
         </p>
     </li>
     <li>
         <p>
-            <a href="https://medium.com/@iamdanielkissiedu/scaling-from-zero-to-millions-of-users-e737282247a9">Scaling from Zero to Millions of Users</a>
+            <a href="https://medium.com/@iamdanielkissiedu/scaling-from-zero-to-millions-of-users-e737282247a9" target="_blank">Scaling from Zero to Millions of Users</a>
         </p>
     </li>
 </ol>
