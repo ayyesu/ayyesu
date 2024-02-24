@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Daniel Kissiedu</h1>
 <h3 align="center">Software Engineer with an interest in Backend</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=ayyesu&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=ayyesu&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=ayyesu&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+</picture>
 
-<p align="left">
-    <a href="https://twitter.com/therealldaniiel" target="blank">
-        <img src="https://img.shields.io/twitter/follow/therealldaniiel?logo=twitter&style=for-the-badge" alt="therealldaniiel">
-    </a>
-</p>
 
 <p>
     - 🌱 I’m currently learning <span style="color: slategrey">Data Science</span>
@@ -19,8 +18,6 @@
         <a href="https://mindmap-di.netlify.app/" target="_blank">MindMap</a>
     </li>
 </ol>
-
-<p>- 👯 I’m looking to collaborate with other developers on Software Development & Machine Learning projects</p>
 
 <p> - ✍🏽 Recent Article:</p>
 
@@ -43,33 +40,6 @@
         </p>
     </li>
 </ol>
-
-<p>- 💬 Ask me about <span style="color: slategrey">anything programming</span></p>
-
-<p>- 📫 How to reach me <a href="mailto:iamdanielkissiedu@gmail.com">mail</a></p>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-    <a href="https://twitter.com/therealldaniiel" target="blank">
-        <img align="center" src="https://www.sarkarinaukriexams.com/images/import/sne720810009.png" alt="therealldaniiel" height="30" width="40">
-    </a>
-    <a href="https://linkedin.com/in/danielayesukissiedu" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielayesukissiedu" height="30" width="40">
-    </a>
-    <a href="https://kaggle.com/danielkissiedu" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="danielkissiedu" height="30" width="40">
-    </a>
-    <a href="https://instagram.com/ayyesu" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayyesu" height="30" width="40">
-    </a>
-    <a href="https://www.youtube.com/channel/UC4sbHulYMkHErT4jMucg2Gw" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Daniel Kissiedu" height="30" width="40">
-    </a>
-    <a href="https://www.leetcode.com/ayyesu" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayyesu" height="30" width="40">
-    </a>
-</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayyesu&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayyesu&theme=github_dark)
