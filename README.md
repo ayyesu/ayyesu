@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Kissiedu</h1>
-<h3 align="center">Software Engineer with an interest in Backend</h3>
+<h3 align="center">Software Engineering, AI & Research</h3>
 
 <p>
     - 🌱 I’m currently learning <span style="color: slategrey">Data Science</span>
