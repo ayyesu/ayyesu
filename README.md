@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering, AI & Research</h3>
 
 <p>
-    - 🌱 I’m currently learning <span style="color: slategrey">Data Science</span>
+    - 🌱 I’m currently learning <span style="color: slategrey">Deep Learning</span>
 </p>
 
 <p> - 💻 Working on: </p>
