@@ -8,7 +8,7 @@
 <p> - 💻 Working on: </p>
 <ol>
     <li>
-        <a href="https://hablar-chat.netlify.app/" target="_blank">Hablar</a> - A video conferencing platform.
+        <a href="https://hablar-meets.netlify.app/" target="_blank">Hablar</a> - A video conferencing platform.
     </li>
 </ol>
 
