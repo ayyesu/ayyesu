@@ -1,38 +1,32 @@
-<h1 align="center">Hi 👋, I'm Daniel Kissiedu</h1>
-<h3 align="center">Software Engineering, AI & Research</h3>
+# <div align="center">Hi 👋, I'm Daniel Kissiedu</div>
+### <div align="center">Software Engineer | Data Science & Machine Learning Enthusiast</div>
 
-<p>
-    - 🌱 I’m currently learning <b style="color: blue">Deep Learning</b> and exploring its applications in various domains.
-</p>
+---
 
-<p> - 💻 Working on: </p>
-<ol>
-    <li>
-        <a href="https://hablar-meets.netlify.app/" target="_blank">Hablar Meets</a> - A video conferencing platform.
-    </li>
-</ol>
+### 👨‍💻 About Me
+- 🌱 I’m currently diving deep into **Deep Learning** and exploring its transformative applications across various domains.
+- 💡 Passionate about building scalable software solutions and leveraging data to solve real-world problems.
+- 📫 Reach out to me <a href="mailto:iamdanielkissiedu@gmail.com" target="_blank">here</a>
 
-<p> - ✍🏽 Recent Article:</p>
+---
 
-<ol>
-    <li>
-        <p>
-            <a href="https://medium.com/@iamdanielkissiedu/understanding-data-processing-in-machine-learning-a13aa93b613e" target="_blank">
-                Understanding Data Processing in Machine Learning
-            </a>
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://medium.com/@iamdanielkissiedu/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-dc3cefa3e76c" target="_blank">What happens when you type google.com in                 your browser and press Enter</a>
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://medium.com/@iamdanielkissiedu/scaling-from-zero-to-millions-of-users-e737282247a9" target="_blank">Scaling from Zero to Millions of Users</a>
-        </p>
-    </li>
-</ol>
+### 📊 GitHub Stats
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayyesu&theme=github_dark" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayyesu&theme=github_dark" alt="Most Commit Language" />
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayyesu&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayyesu&theme=github_dark)
+---
+
+### 📫 Let's Connect
+<div align="center">
+    <a href="https://www.linkedin.com/in/ayyesu/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/ayyesu01" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:iamdanielkissiedu@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+</div>
